@@ -1,6 +1,7 @@
 # CSS-GRID-TEST
 
 This project is about to give me a handle as a student on how to create a web site flow.
+There is any specifique topic, it's just to test myskill about CSS3.
 
 ## Built With
 
